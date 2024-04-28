@@ -1,6 +1,6 @@
-# Running Ansible Playbook to Install a Python Package
+# Running Ansible Playbook to Install a Package
  
-This Ansible playbook is designed to install a Python package using the `pip` module on all hosts specified.
+This Ansible playbook is designed to install a package using the `pip` module on all hosts specified.
  
 ## Prerequisites
  
